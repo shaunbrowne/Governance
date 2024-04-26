@@ -33,4 +33,4 @@ jobs:
           55d25f7a-5a4a-4916-b2e8-283de8bfb434/quotes-api/1.0.0
           --remote-rulesets 55d25f7a-5a4a-4916-b2e8-283de8bfb434/custom-best-practices/1.0.0
           --remote --client_id 07684cacb1264178a478e4c73b88c7ec
-          --client_secret 30CF780E1BC74a7d9D37b8c03Cb1642c --environment Sandbox
+          --client_secret 30CF780E1BC74a7d9D37b8c03Cb1642c --environment Sandbox  --output json
